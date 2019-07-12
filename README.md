@@ -1,5 +1,7 @@
 # Elements of Functional Programming in Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Elements-of-Functional-Programming-in-Python/master)
+
 ![](https://cdn-images-1.medium.com/max/800/1*TOsk9zG2gpYmf5d2JmIcUA.png)
 
 Just like there are multiple programming languages in the world, in the same way, there are innumerable categories in which they can be classified. A programming paradigm is one such way which tries to classify programming languages based on their features or coding style. A programming paradigm is essentially a style or a way of programming.
